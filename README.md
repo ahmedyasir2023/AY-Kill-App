@@ -2,6 +2,8 @@
 
 **Developed by Eng. Ahmed Yasir**
 
+<img width="1280" height="640" alt="generated-image (2)" src="https://github.com/user-attachments/assets/4a4b9732-c5f5-4099-9805-bcf989d0eda3" />
+
 AY Kill App is a simple and powerful KernelSU Next module that automatically force-stops user applications immediately after you leave them. It also includes a manual “Close All Apps” action, an app exclusion list, and a modern WebUI.
 
 ## What It Does
